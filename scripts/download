@@ -7,7 +7,6 @@ platform=`uname -a | awk '{print tolower($1)}'`
 arch=`uname -m`
 version="0.14.2"
 url="https://download.litecoin.org/litecoin-${version}"
-url="https://github.com/litecoin-project/litecore-litecoin/releases/download"
 
 if [ "${platform}" == "linux" ]; then
     if [ "${arch}" == "x86_64" ]; then
