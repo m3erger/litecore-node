@@ -33,6 +33,8 @@
     "litecoind-rpc": "^0.7.1",
     "litecore-lib": "https://github.com/litecoin-project/litecore-lib#v5.0",
     "litecore-p2p": "https://github.com/litecoin-project/litecore-p2p#v5.0",
+    "insight-lite-api": "https://github.com/litecoin-project/insight-lite-api#v5.0",
+    "insight-lite-ui": "https://github.com/litecoin-project/insight-lite-ui#v5.0",
     "bn.js": "^4.11.8",
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
